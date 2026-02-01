@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1769980280277",
+    "title": "Ramadhan",
+    "message": "inshallah",
+    "category": "general",
+    "icon": "fas fa-bell",
+    "status": "unread",
+    "date": "2026-02-01T21:11:20.278Z",
+    "createdAt": "2026-02-01T21:11:20.278Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1769977546852",
     "title": "Ramadhan",
     "message": "tomorrow is fasting",
