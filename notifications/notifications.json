@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "notif-1769977546852",
+    "title": "Ramadhan",
+    "message": "tomorrow is fasting",
+    "category": "reminder",
+    "icon": "fas fa-moon",
+    "status": "unread",
+    "date": "2026-02-01T20:25:46.852Z",
+    "createdAt": "2026-02-01T20:25:46.852Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  }
+]
