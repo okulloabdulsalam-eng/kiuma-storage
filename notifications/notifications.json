@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1769980995888",
+    "title": "Prayers",
+    "message": "Welcome to KIUMA App",
+    "category": "general",
+    "icon": "fas fa-bell",
+    "status": "unread",
+    "date": "2026-02-01T21:23:15.888Z",
+    "createdAt": "2026-02-01T21:23:15.888Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1769980690946",
     "title": "Notification",
     "message": "Welcome to KIUMA App",
