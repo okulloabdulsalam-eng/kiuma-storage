@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1769980582535",
+    "title": "Notification",
+    "message": "Welcome to KIUMA App",
+    "category": "general",
+    "icon": "fas fa-bell",
+    "status": "unread",
+    "date": "2026-02-01T21:16:22.535Z",
+    "createdAt": "2026-02-01T21:16:22.535Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1769980280277",
     "title": "Ramadhan",
     "message": "inshallah",
