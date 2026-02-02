@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1770048105568",
+    "title": "TEST 1",
+    "message": "App receives notification",
+    "category": "general",
+    "icon": "fas fa-moon",
+    "status": "unread",
+    "date": "2026-02-02T16:01:45.568Z",
+    "createdAt": "2026-02-02T16:01:45.568Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1770043320359",
     "title": "Uhy",
     "message": "Yui",
