@@ -1,17 +1,5 @@
 [
   {
-    "id": "notif-1770012409527",
-    "title": "Kiuma",
-    "message": "Don't wait for sula Bitonde",
-    "category": "event",
-    "icon": "fas fa-book-open",
-    "status": "unread",
-    "date": "2026-02-02T06:06:49.527Z",
-    "createdAt": "2026-02-02T06:06:49.527Z",
-    "lastSentAt": null,
-    "sentCount": 0
-  },
-  {
     "id": "notif-1769980995888",
     "title": "Prayers",
     "message": "Welcome to KIUMA App",
