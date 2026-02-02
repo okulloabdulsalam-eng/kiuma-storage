@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1770012260027",
+    "title": "Today",
+    "message": "Don't wait for Sula Bitonde",
+    "category": "general",
+    "icon": "fas fa-exclamation-triangle",
+    "status": "unread",
+    "date": "2026-02-02T06:04:20.027Z",
+    "createdAt": "2026-02-02T06:04:20.027Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1769980995888",
     "title": "Prayers",
     "message": "Welcome to KIUMA App",
