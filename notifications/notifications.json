@@ -1,5 +1,17 @@
 [
   {
+    "id": "notif-1771320497361",
+    "title": "Ramadan",
+    "message": "We are waiting for the moon today and if it appears we fast tomorrow inshallah.",
+    "category": "general",
+    "icon": "fas fa-bell",
+    "status": "unread",
+    "date": "2026-02-17T09:28:17.361Z",
+    "createdAt": "2026-02-17T09:28:17.361Z",
+    "lastSentAt": null,
+    "sentCount": 0
+  },
+  {
     "id": "notif-1771320227566",
     "title": "KIUMA App launch",
     "message": "It is to be launched on 28th February 2026 inshallah",
